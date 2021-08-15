@@ -8,3 +8,4 @@ Number classification with drawing interface using tkinter, the MNIST dataset, k
 - Click Save
 - The code will replace any file with the name "conv (temp_mnist).jpg" in the current directory folder. While this is highly unlikely, please make sure you don't have any files with that exact name in the directory folder.
 - Click test, and the code will guess the number written.
+![](digitrecog.gif)
